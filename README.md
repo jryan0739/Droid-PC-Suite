@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tildegit.org/shouko/Droid-PC-Suite/raw/branch/master/Droid%20PC%20Suite/src/graphics/Splash.png">
+  <img src="https://raw.githubusercontent.com/shoukolate/Droid-PC-Suite/master/Droid%20PC%20Suite/src/graphics/Splash.png">
 </p>
 
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
